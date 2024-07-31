@@ -1,0 +1,55 @@
+*{
+    color: white;
+}
+.size{
+    height: 80px;
+}
+.body-c2{
+    width: 600px !important;
+    height: auto !important;
+    border-radius: 30px;
+}
+.space{
+    letter-spacing: 2px;
+    border-radius: 10px;
+    padding: 5px 0px;
+}
+.space:hover{
+    background-color: rgb(138, 2, 2) !important;
+}
+.display-6{
+    font-size: 30px !important;
+    font-family:sans-serif !important;
+    background: rebeccapurple;
+}
+.text-success{
+    cursor: pointer;
+}
+.text-success:hover{
+    color: rgb(9, 255, 9) !important;
+}
+.text-danger{
+    cursor: pointer;
+}
+.text-danger:hover{
+    color: rgb(255, 111, 111) !important;
+}
+.alert{
+    visibility: hidden;
+    position: absolute;
+}
+.text{
+    visibility: visible;
+}
+.clear-items{
+    visibility: hidden;
+}
+.show-clear{
+    visibility: visible;
+}
+.show-alert{
+    visibility: visible;
+}
+.remove-element{
+    visibility: visible;
+}
